@@ -1,2 +1,1 @@
-uv sync
-python3 main.py
+uv sync;  python3 main.py
