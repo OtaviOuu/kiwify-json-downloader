@@ -1,0 +1,10 @@
+[project]
+name = "kiwify-real"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.32.4",
+    "yt-dlp>=2025.7.21",
+]
