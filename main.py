@@ -4,7 +4,7 @@ from yt_dlp import YoutubeDL
 
 
 def get_json():
-    course_json = input("json path: ")
+    course_json = input("Nome do seu json: ")
     with open(f"{course_json}.json", "r") as file:
         course_data = json.load(file)
     return course_data
