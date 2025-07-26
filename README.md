@@ -1,1 +1,2 @@
-# kiwify-json-downloader
+uv sync
+python3 main.py
